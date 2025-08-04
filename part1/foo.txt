@@ -7,4 +7,4 @@ Maybe fill this out?
 * The best operating system is macOS
 * The best text editor is Neovim
 * The best kind of phone is iPhone
-* The best superhero is ___________
+* The best superhero is Batman
